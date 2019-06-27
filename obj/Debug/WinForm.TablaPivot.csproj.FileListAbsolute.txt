@@ -1,0 +1,10 @@
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\bin\Debug\WinForm.TablaPivot.exe.config
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\bin\Debug\WinForm.TablaPivot.exe
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\bin\Debug\WinForm.TablaPivot.pdb
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\obj\Debug\WinForm.TablaPivot.csprojAssemblyReference.cache
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\obj\Debug\WinForm.TablaPivot.Form1.resources
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\obj\Debug\WinForm.TablaPivot.Properties.Resources.resources
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\obj\Debug\WinForm.TablaPivot.csproj.GenerateResource.cache
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\obj\Debug\WinForm.TablaPivot.csproj.CoreCompileInputs.cache
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\obj\Debug\WinForm.TablaPivot.exe
+D:\GitHub\WinForm.TablaPivot\WinForm.TablaPivot\obj\Debug\WinForm.TablaPivot.pdb
